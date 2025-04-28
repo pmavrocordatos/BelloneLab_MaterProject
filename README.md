@@ -73,15 +73,10 @@ This ensures smooth and stable interactions with both the touchscreen and hardwa
 
 ## Clone this repository and make sure that the ModularStuffBoard_2302_01 driver is available in your project directory.
 Usage
-
-    Connect the hardware setup to the computer via serial port.
-
-    Launch the main application script.
-
-    Follow on-screen prompts and monitor the console for experiment updates.
+- Connect the hardware setup to the computer via serial port.
+- Launch the main application script.
+- Follow on-screen prompts and monitor the console for experiment updates.
 
 ## Notes
-
-    Data files are automatically created and organized by experiment session.
-
-    Additional error handling and hardware verification are recommended for production setups.
+- Data files are automatically created and organized by experiment session.
+- Additional error handling and hardware verification are recommended for production setups.
